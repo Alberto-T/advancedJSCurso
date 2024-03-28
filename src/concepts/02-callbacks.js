@@ -27,12 +27,8 @@ export const callbacksComponent = ( element ) => {
             } 
             
             element.innerHTML = `${ hero1.name } / ${ hero2.name }`;
-        
         })
-
-
     });
-        
 }
 
 
